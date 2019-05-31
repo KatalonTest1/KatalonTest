@@ -1,0 +1,37 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Tools,Firefox 67.0,,,2019-05-27 19:05:37,2019-05-27 19:07:00,1m - 23.399s,PASSED
+,,,,,,,
+Test Cases/GGMP/TOOLS/Locate a Dealer/LAD,Firefox 67.0,,,2019-05-27 19:05:38,2019-05-27 19:06:07,29.000s,PASSED
+"openBrowser("""")",Firefox 67.0,,,2019-05-27 19:05:38,2019-05-27 19:05:55,17.121s,PASSED
+maximizeWindow(),Firefox 67.0,,,2019-05-27 19:05:55,2019-05-27 19:05:56,0.365s,PASSED
+"navigateToUrl(""https://www.genuinegmparts.com"")",Firefox 67.0,,,2019-05-27 19:05:56,2019-05-27 19:05:59,3.804s,PASSED
+"click(findTestObject(""Locate a Dealer/li_Locate Parts andService""))",Firefox 67.0,,,2019-05-27 19:05:59,2019-05-27 19:06:00,0.576s,PASSED
+"click(findTestObject(""Locate a Dealer/span_Locate a Parts Dealer""))",Firefox 67.0,,,2019-05-27 19:06:00,2019-05-27 19:06:03,2.509s,PASSED
+"setText(findTestObject(""Locate a Dealer/input_City State_inpZip""), ""10001"")",Firefox 67.0,,,2019-05-27 19:06:03,2019-05-27 19:06:03,0.379s,PASSED
+"click(findTestObject(""Locate a Dealer/button_Begin your search""))",Firefox 67.0,,,2019-05-27 19:06:03,2019-05-27 19:06:03,0.478s,PASSED
+"click(findTestObject(""Object Repository/Locate a Dealer/a_Dealer Website""))",Firefox 67.0,,,2019-05-27 19:06:03,2019-05-27 19:06:04,0.779s,PASSED
+closeBrowser(),Firefox 67.0,,,2019-05-27 19:06:04,2019-05-27 19:06:07,2.359s,PASSED
+,,,,,,,
+Test Cases/GGMP/TOOLS/Locate a Dealer/New LAD,Firefox 67.0,,,2019-05-27 19:06:07,2019-05-27 19:06:36,29.157s,PASSED
+"openBrowser("""")",Firefox 67.0,,,2019-05-27 19:06:07,2019-05-27 19:06:21,13.498s,PASSED
+maximizeWindow(),Firefox 67.0,,,2019-05-27 19:06:21,2019-05-27 19:06:21,0.302s,PASSED
+"navigateToUrl(""https://www.genuinegmparts.com/"")",Firefox 67.0,,,2019-05-27 19:06:21,2019-05-27 19:06:24,3.519s,PASSED
+"click(findTestObject(""Object Repository/Locate a Dealer/new LAD/li_Locate Parts andService""))",Firefox 67.0,,,2019-05-27 19:06:24,2019-05-27 19:06:25,0.605s,PASSED
+"click(findTestObject(""Object Repository/Locate a Dealer/new LAD/span_Locate a GM Collision Repair Network Facility""))",Firefox 67.0,,,2019-05-27 19:06:25,2019-05-27 19:06:28,2.745s,PASSED
+"setText(findTestObject(""Object Repository/Locate a Dealer/new LAD/input_ZIP Code or CityState_inpZip""), ""10001"")",Firefox 67.0,,,2019-05-27 19:06:28,2019-05-27 19:06:28,0.501s,PASSED
+"click(findTestObject(""Object Repository/Locate a Dealer/new LAD/button_ZIP Code or CityState_searchBtn""))",Firefox 67.0,,,2019-05-27 19:06:28,2019-05-27 19:06:29,0.994s,PASSED
+"click(findTestObject(""Object Repository/Locate a Dealer/new LAD/h2_precision auto works""))",Firefox 67.0,,,2019-05-27 19:06:29,2019-05-27 19:06:30,1.127s,PASSED
+"click(findTestObject(""Object Repository/Locate a Dealer/new LAD/p_Back to List""))",Firefox 67.0,,,2019-05-27 19:06:30,2019-05-27 19:06:32,1.220s,PASSED
+"click(findTestObject(""Object Repository/Locate a Dealer/new LAD/button_Terms of Use_gm-control-active gm-fullscreen-control""))",Firefox 67.0,,,2019-05-27 19:06:32,2019-05-27 19:06:33,0.889s,PASSED
+"click(findTestObject(""Object Repository/Locate a Dealer/new LAD/button_Terms of Use_gm-control-active gm-fullscreen-control""))",Firefox 67.0,,,2019-05-27 19:06:33,2019-05-27 19:06:33,0.718s,PASSED
+closeBrowser(),Firefox 67.0,,,2019-05-27 19:06:33,2019-05-27 19:06:36,2.507s,PASSED
+,,,,,,,
+Test Cases/GGMP/TOOLS/Locate a Dealer/Touch-Up Paint,Firefox 67.0,,,2019-05-27 19:06:36,2019-05-27 19:07:00,24.522s,PASSED
+"openBrowser("""")",Firefox 67.0,,,2019-05-27 19:06:36,2019-05-27 19:06:51,14.377s,PASSED
+maximizeWindow(),Firefox 67.0,,,2019-05-27 19:06:51,2019-05-27 19:06:51,0.279s,PASSED
+"navigateToUrl(""https://www.genuinegmparts.com/"")",Firefox 67.0,,,2019-05-27 19:06:51,2019-05-27 19:06:55,3.826s,PASSED
+"click(findTestObject(""Object Repository/HomePage/TouchUp Paint/li_Collision""))",Firefox 67.0,,,2019-05-27 19:06:55,2019-05-27 19:06:55,0.554s,PASSED
+"click(findTestObject(""Object Repository/HomePage/TouchUp Paint/span_Touch-up paint""))",Firefox 67.0,,,2019-05-27 19:06:55,2019-05-27 19:06:57,1.618s,PASSED
+"click(findTestObject(""Object Repository/HomePage/TouchUp Paint/a_Downloadable Guides""))",Firefox 67.0,,,2019-05-27 19:06:57,2019-05-27 19:06:58,0.614s,PASSED
+"click(findTestObject(""Object Repository/HomePage/TouchUp Paint/span_2018 GM Refinish Materials - GMW-15406-2017""))",Firefox 67.0,,,2019-05-27 19:06:58,2019-05-27 19:06:58,0.520s,PASSED
+closeBrowser(),Firefox 67.0,,,2019-05-27 19:06:58,2019-05-27 19:07:00,2.194s,PASSED

@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Global Nav" time="179" tests="10" failures="0" errors="0">
+   <testsuite name="Global Nav" tests="10" failures="0" errors="0" time="179" timestamp="2019-05-22 19:00:07" hostname="adrian.dobre - BCHOPT-NW100219.emea.corp.ipgnetwork.com" id="Test Suites/Global Nav">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\adrian.dobre\\Katalon Studio\\Genuine GM Parts\\Reports\\Global Nav\\20190522_190004"/>
+         <property name="logFiles" value="C:\\Users\\adrian.dobre\\Katalon Studio\\Genuine GM Parts\\Reports\\Global Nav\\20190522_190004\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="adrian.dobre - BCHOPT-NW100219.emea.corp.ipgnetwork.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="6.1.4.1"/>
+         <property name="browser" value="Firefox 66.0"/>
+         <property name="hostAddress" value="10.69.196.168"/>
+         <property name="sessionId" value="991066f1-a0af-4744-b29e-60174b83ec09"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/GGMP/GlobalNav/Collision/Cadillac Repair Network" classname="Test Cases/GGMP/GlobalNav/Collision/Cadillac Repair Network" status="PASSED">
+         <system-out><![CDATA[2019-05-22 19:00:08 - [TEST_CASE][PASSED] - Test Cases/GGMP/GlobalNav/Collision/Cadillac Repair Network: Test Cases/GGMP/GlobalNav/Collision/Cadillac Repair Network
+
+2019-05-22 19:00:09 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-05-22 19:00:09 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2019-05-22 19:00:09 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2019-05-22 19:00:20 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-05-22 19:00:20 - [TEST_STEP][PASSED] - navigateToUrl("https://www.genuinegmparts.com/"): Navigate to 'https://www.genuinegmparts.com/' successfully
+
+2019-05-22 19:00:22 - [MESSAGE][PASSED] - Navigate to 'https://www.genuinegmparts.com/' successfully
+
+2019-05-22 19:00:22 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/New Folder/Global nav/li_Collision")): Object: 'Object Repository/New Folder/Global nav/li_Collision' is clicked on
+
+2019-05-22 19:00:22 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Global nav/li_Collision' is clicked on
+
+2019-05-22 19:00:22 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/New Folder/Global nav/a_Cadillac Aluminum Repair Network")): Object: 'Object Repository/New Folder/Global nav/a_Cadillac Aluminum Repair Network' is clicked on
+
+2019-05-22 19:00:24 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Global nav/a_Cadillac Aluminum Repair Network' is clicked on
+
+2019-05-22 19:00:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/New Folder/Global nav/span_GENUINE GM REWARDS")): Object: 'Object Repository/New Folder/Global nav/span_GENUINE GM REWARDS' is clicked on
+
+2019-05-22 19:00:25 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Global nav/span_GENUINE GM REWARDS' is clicked on
+
+2019-05-22 19:00:25 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-05-22 19:00:26 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/GGMP/GlobalNav/Collision/Collision Parts" classname="Test Cases/GGMP/GlobalNav/Collision/Collision Parts" status="PASSED">
+         <system-out><![CDATA[2019-05-22 19:00:26 - [TEST_CASE][PASSED] - Test Cases/GGMP/GlobalNav/Collision/Collision Parts: Test Cases/GGMP/GlobalNav/Collision/Collision Parts
+
+2019-05-22 19:00:26 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-05-22 19:00:27 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2019-05-22 19:00:35 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-05-22 19:00:35 - [TEST_STEP][PASSED] - navigateToUrl("https://www.genuinegmparts.com/"): Navigate to 'https://www.genuinegmparts.com/' successfully
+
+2019-05-22 19:00:38 - [MESSAGE][PASSED] - Navigate to 'https://www.genuinegmparts.com/' successfully
+
+2019-05-22 19:00:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/New Folder/Global nav/li_Collision")): Object: 'Object Repository/New Folder/Global nav/li_Collision' is clicked on
+
+2019-05-22 19:00:38 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Global nav/li_Collision' is clicked on
+
+2019-05-22 19:00:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/New Folder/Global nav/span_Collision parts")): Object: 'Object Repository/New Folder/Global nav/span_Collision parts' is clicked on
+
+2019-05-22 19:00:39 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Global nav/span_Collision parts' is clicked on
+
+2019-05-22 19:00:39 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-05-22 19:00:41 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/GGMP/GlobalNav/Collision/Collision Repair Manuals" classname="Test Cases/GGMP/GlobalNav/Collision/Collision Repair Manuals" status="PASSED">
+         <system-out><![CDATA[2019-05-22 19:00:41 - [TEST_CASE][PASSED] - Test Cases/GGMP/GlobalNav/Collision/Collision Repair Manuals: Test Cases/GGMP/GlobalNav/Collision/Collision Repair Manuals
+
+2019-05-22 19:00:41 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-05-22 19:00:41 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2019-05-22 19:00:50 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-05-22 19:00:50 - [TEST_STEP][PASSED] - navigateToUrl("https://www.genuinegmparts.com/"): Navigate to 'https://www.genuinegmparts.com/' successfully
+
+2019-05-22 19:00:53 - [MESSAGE][PASSED] - Navigate to 'https://www.genuinegmparts.com/' successfully
+
+2019-05-22 19:00:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/New Folder/Global nav/li_Collision")): Object: 'Object Repository/New Folder/Global nav/li_Collision' is clicked on
+
+2019-05-22 19:00:53 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Global nav/li_Collision' is clicked on
+
+2019-05-22 19:00:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/New Folder/Global nav/a_Collision Repair Manuals")): Object: 'Object Repository/New Folder/Global nav/a_Collision Repair Manuals' is clicked on
+
+2019-05-22 19:00:55 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Global nav/a_Collision Repair Manuals' is clicked on
+
+2019-05-22 19:00:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/New Folder/Global nav/button_Programs  Offers")): Object: 'Object Repository/New Folder/Global nav/button_Programs  Offers' is clicked on
+
+2019-05-22 19:00:56 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Global nav/button_Programs  Offers' is clicked on
+
+2019-05-22 19:00:56 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-05-22 19:00:58 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/GGMP/GlobalNav/Collision/Collision Repair Network" classname="Test Cases/GGMP/GlobalNav/Collision/Collision Repair Network" status="PASSED">
+         <system-out><![CDATA[2019-05-22 19:00:58 - [TEST_CASE][PASSED] - Test Cases/GGMP/GlobalNav/Collision/Collision Repair Network: Test Cases/GGMP/GlobalNav/Collision/Collision Repair Network
+
+2019-05-22 19:00:58 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-05-22 19:00:58 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2019-05-22 19:01:07 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-05-22 19:01:07 - [TEST_STEP][PASSED] - navigateToUrl("https://www.genuinegmparts.com/"): Navigate to 'https://www.genuinegmparts.com/' successfully
+
+2019-05-22 19:01:10 - [MESSAGE][PASSED] - Navigate to 'https://www.genuinegmparts.com/' successfully
+
+2019-05-22 19:01:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/New Folder/Global nav/li_Collision")): Object: 'Object Repository/New Folder/Global nav/li_Collision' is clicked on
+
+2019-05-22 19:01:10 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Global nav/li_Collision' is clicked on
+
+2019-05-22 19:01:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/New Folder/Global nav/a_Collision Repair Network")): Object: 'Object Repository/New Folder/Global nav/a_Collision Repair Network' is clicked on
+
+2019-05-22 19:01:12 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Global nav/a_Collision Repair Network' is clicked on
+
+2019-05-22 19:01:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/New Folder/Global nav/a_Why participate in the General Motors Collision Repair Network")): Object: 'Object Repository/New Folder/Global nav/a_Why participate in the General Motors Collision Repair Network' is clicked on
+
+2019-05-22 19:01:12 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Global nav/a_Why participate in the General Motors Collision Repair Network' is clicked on
+
+2019-05-22 19:01:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/New Folder/Global nav/a_Why participate in the General Motors Collision Repair Network")): Object: 'Object Repository/New Folder/Global nav/a_Why participate in the General Motors Collision Repair Network' is clicked on
+
+2019-05-22 19:01:12 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Global nav/a_Why participate in the General Motors Collision Repair Network' is clicked on
+
+2019-05-22 19:01:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/New Folder/Global nav/button_ENROLL NOW")): Object: 'Object Repository/New Folder/Global nav/button_ENROLL NOW' is clicked on
+
+2019-05-22 19:01:13 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Global nav/button_ENROLL NOW' is clicked on
+
+2019-05-22 19:01:13 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-05-22 19:01:14 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/GGMP/GlobalNav/Collision/My GM Partner Perks" classname="Test Cases/GGMP/GlobalNav/Collision/My GM Partner Perks" status="PASSED">
+         <system-out><![CDATA[2019-05-22 19:01:14 - [TEST_CASE][PASSED] - Test Cases/GGMP/GlobalNav/Collision/My GM Partner Perks: Test Cases/GGMP/GlobalNav/Collision/My GM Partner Perks
+
+2019-05-22 19:01:14 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-05-22 19:01:14 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2019-05-22 19:01:25 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-05-22 19:01:25 - [TEST_STEP][PASSED] - navigateToUrl("https://www.genuinegmparts.com/"): Navigate to 'https://www.genuinegmparts.com/' successfully
+
+2019-05-22 19:01:27 - [MESSAGE][PASSED] - Navigate to 'https://www.genuinegmparts.com/' successfully
+
+2019-05-22 19:01:27 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/New Folder/Global nav/li_Collision")): Object: 'Object Repository/New Folder/Global nav/li_Collision' is clicked on
+
+2019-05-22 19:01:28 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Global nav/li_Collision' is clicked on
+
+2019-05-22 19:01:28 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/New Folder/Global nav/a_My GM Partner Perks")): Object: 'Object Repository/New Folder/Global nav/a_My GM Partner Perks' is clicked on
+
+2019-05-22 19:01:31 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Global nav/a_My GM Partner Perks' is clicked on
+
+2019-05-22 19:01:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/New Folder/Global nav/a_INDEPENDENT SERVICECENTER INFORMATION")): Object: 'Object Repository/New Folder/Global nav/a_INDEPENDENT SERVICECENTER INFORMATION' is clicked on
+
+2019-05-22 19:01:31 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Global nav/a_INDEPENDENT SERVICECENTER INFORMATION' is clicked on
+
+2019-05-22 19:01:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/New Folder/Global nav/a_INDEPENDENT SERVICECENTER INFORMATION")): Object: 'Object Repository/New Folder/Global nav/a_INDEPENDENT SERVICECENTER INFORMATION' is clicked on
+
+2019-05-22 19:01:31 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Global nav/a_INDEPENDENT SERVICECENTER INFORMATION' is clicked on
+
+2019-05-22 19:01:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/New Folder/Global nav/a_INDEPENDENT BODY SHOP INFORMATION")): Object: 'Object Repository/New Folder/Global nav/a_INDEPENDENT BODY SHOP INFORMATION' is clicked on
+
+2019-05-22 19:01:32 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Global nav/a_INDEPENDENT BODY SHOP INFORMATION' is clicked on
+
+2019-05-22 19:01:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/New Folder/Global nav/a_INDEPENDENT BODY SHOP INFORMATION")): Object: 'Object Repository/New Folder/Global nav/a_INDEPENDENT BODY SHOP INFORMATION' is clicked on
+
+2019-05-22 19:01:32 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Global nav/a_INDEPENDENT BODY SHOP INFORMATION' is clicked on
+
+2019-05-22 19:01:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/New Folder/Global nav/a_FLEET INFORMATION")): Object: 'Object Repository/New Folder/Global nav/a_FLEET INFORMATION' is clicked on
+
+2019-05-22 19:01:32 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Global nav/a_FLEET INFORMATION' is clicked on
+
+2019-05-22 19:01:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/New Folder/Global nav/a_FLEET INFORMATION")): Object: 'Object Repository/New Folder/Global nav/a_FLEET INFORMATION' is clicked on
+
+2019-05-22 19:01:33 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Global nav/a_FLEET INFORMATION' is clicked on
+
+2019-05-22 19:01:33 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-05-22 19:01:34 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/GGMP/GlobalNav/Collision/Position Statement" classname="Test Cases/GGMP/GlobalNav/Collision/Position Statement" status="PASSED">
+         <system-out><![CDATA[2019-05-22 19:01:34 - [TEST_CASE][PASSED] - Test Cases/GGMP/GlobalNav/Collision/Position Statement: Test Cases/GGMP/GlobalNav/Collision/Position Statement
+
+2019-05-22 19:01:34 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-05-22 19:01:34 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2019-05-22 19:01:44 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-05-22 19:01:44 - [TEST_STEP][PASSED] - navigateToUrl("https://www.genuinegmparts.com/"): Navigate to 'https://www.genuinegmparts.com/' successfully
+
+2019-05-22 19:01:47 - [MESSAGE][PASSED] - Navigate to 'https://www.genuinegmparts.com/' successfully
+
+2019-05-22 19:01:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/New Folder/Global nav/li_Collision")): Object: 'Object Repository/New Folder/Global nav/li_Collision' is clicked on
+
+2019-05-22 19:01:47 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Global nav/li_Collision' is clicked on
+
+2019-05-22 19:01:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/New Folder/Global nav/a_Position Statements")): Object: 'Object Repository/New Folder/Global nav/a_Position Statements' is clicked on
+
+2019-05-22 19:01:49 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Global nav/a_Position Statements' is clicked on
+
+2019-05-22 19:01:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/New Folder/Global nav/span_Safety System Repairs and Inspections required after a Collision")): Object: 'Object Repository/New Folder/Global nav/span_Safety System Repairs and Inspections required after a Collision' is clicked on
+
+2019-05-22 19:01:49 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Global nav/span_Safety System Repairs and Inspections required after a Collision' is clicked on
+
+2019-05-22 19:01:49 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-05-22 19:01:51 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/GGMP/GlobalNav/Collision/Programs and Offers" classname="Test Cases/GGMP/GlobalNav/Collision/Programs and Offers" status="PASSED">
+         <system-out><![CDATA[2019-05-22 19:01:51 - [TEST_CASE][PASSED] - Test Cases/GGMP/GlobalNav/Collision/Programs and Offers: Test Cases/GGMP/GlobalNav/Collision/Programs and Offers
+
+2019-05-22 19:01:51 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-05-22 19:01:51 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2019-05-22 19:02:01 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-05-22 19:02:01 - [TEST_STEP][PASSED] - navigateToUrl("https://www.genuinegmparts.com/"): Navigate to 'https://www.genuinegmparts.com/' successfully
+
+2019-05-22 19:02:03 - [MESSAGE][PASSED] - Navigate to 'https://www.genuinegmparts.com/' successfully
+
+2019-05-22 19:02:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/li_Collision")): Object: 'Object Repository/li_Collision' is clicked on
+
+2019-05-22 19:02:04 - [MESSAGE][PASSED] - Object: 'Object Repository/li_Collision' is clicked on
+
+2019-05-22 19:02:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/a_Programs  Offers")): Object: 'Object Repository/a_Programs  Offers' is clicked on
+
+2019-05-22 19:02:05 - [MESSAGE][PASSED] - Object: 'Object Repository/a_Programs  Offers' is clicked on
+
+2019-05-22 19:02:05 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-05-22 19:02:07 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/GGMP/GlobalNav/Collision/Technical Documents" classname="Test Cases/GGMP/GlobalNav/Collision/Technical Documents" status="PASSED">
+         <system-out><![CDATA[2019-05-22 19:02:07 - [TEST_CASE][PASSED] - Test Cases/GGMP/GlobalNav/Collision/Technical Documents: Test Cases/GGMP/GlobalNav/Collision/Technical Documents
+
+2019-05-22 19:02:07 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-05-22 19:02:07 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2019-05-22 19:02:17 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-05-22 19:02:17 - [TEST_STEP][PASSED] - navigateToUrl("https://www.genuinegmparts.com/"): Navigate to 'https://www.genuinegmparts.com/' successfully
+
+2019-05-22 19:02:19 - [MESSAGE][PASSED] - Navigate to 'https://www.genuinegmparts.com/' successfully
+
+2019-05-22 19:02:19 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/New Folder/Global nav/li_Collision")): Object: 'Object Repository/New Folder/Global nav/li_Collision' is clicked on
+
+2019-05-22 19:02:20 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Global nav/li_Collision' is clicked on
+
+2019-05-22 19:02:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/New Folder/Global nav/a_Technical Documents")): Object: 'Object Repository/New Folder/Global nav/a_Technical Documents' is clicked on
+
+2019-05-22 19:02:21 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Global nav/a_Technical Documents' is clicked on
+
+2019-05-22 19:02:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/New Folder/Global nav/a_Service bulletins")): Object: 'Object Repository/New Folder/Global nav/a_Service bulletins' is clicked on
+
+2019-05-22 19:02:21 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Global nav/a_Service bulletins' is clicked on
+
+2019-05-22 19:02:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/New Folder/Global nav/a_Service bulletins")): Object: 'Object Repository/New Folder/Global nav/a_Service bulletins' is clicked on
+
+2019-05-22 19:02:22 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Global nav/a_Service bulletins' is clicked on
+
+2019-05-22 19:02:22 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/New Folder/Global nav/button_Position Statements")): Object: 'Object Repository/New Folder/Global nav/button_Position Statements' is clicked on
+
+2019-05-22 19:02:22 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Global nav/button_Position Statements' is clicked on
+
+2019-05-22 19:02:22 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-05-22 19:02:24 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/GGMP/GlobalNav/Collision/The Genuine Difference" classname="Test Cases/GGMP/GlobalNav/Collision/The Genuine Difference" status="PASSED">
+         <system-out><![CDATA[2019-05-22 19:02:24 - [TEST_CASE][PASSED] - Test Cases/GGMP/GlobalNav/Collision/The Genuine Difference: Test Cases/GGMP/GlobalNav/Collision/The Genuine Difference
+
+2019-05-22 19:02:24 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-05-22 19:02:24 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2019-05-22 19:02:33 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-05-22 19:02:33 - [TEST_STEP][PASSED] - navigateToUrl("https://www.genuinegmparts.com/"): Navigate to 'https://www.genuinegmparts.com/' successfully
+
+2019-05-22 19:02:38 - [MESSAGE][PASSED] - Navigate to 'https://www.genuinegmparts.com/' successfully
+
+2019-05-22 19:02:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/New Folder/Global nav/li_Collision")): Object: 'Object Repository/New Folder/Global nav/li_Collision' is clicked on
+
+2019-05-22 19:02:38 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Global nav/li_Collision' is clicked on
+
+2019-05-22 19:02:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/New Folder/Global nav/span_The Genuine Difference")): Object: 'Object Repository/New Folder/Global nav/span_The Genuine Difference' is clicked on
+
+2019-05-22 19:02:40 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Global nav/span_The Genuine Difference' is clicked on
+
+2019-05-22 19:02:40 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-05-22 19:02:51 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/GGMP/GlobalNav/Collision/Touch-UP Paint" classname="Test Cases/GGMP/GlobalNav/Collision/Touch-UP Paint" status="PASSED">
+         <system-out><![CDATA[2019-05-22 19:02:51 - [TEST_CASE][PASSED] - Test Cases/GGMP/GlobalNav/Collision/Touch-UP Paint: Test Cases/GGMP/GlobalNav/Collision/Touch-UP Paint
+
+2019-05-22 19:02:51 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-05-22 19:02:51 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2019-05-22 19:03:00 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-05-22 19:03:00 - [TEST_STEP][PASSED] - navigateToUrl("https://www.genuinegmparts.com/"): Navigate to 'https://www.genuinegmparts.com/' successfully
+
+2019-05-22 19:03:03 - [MESSAGE][PASSED] - Navigate to 'https://www.genuinegmparts.com/' successfully
+
+2019-05-22 19:03:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/New Folder/Global nav/li_Collision")): Object: 'Object Repository/New Folder/Global nav/li_Collision' is clicked on
+
+2019-05-22 19:03:03 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Global nav/li_Collision' is clicked on
+
+2019-05-22 19:03:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/New Folder/Global nav/span_Touch-up paint")): Object: 'Object Repository/New Folder/Global nav/span_Touch-up paint' is clicked on
+
+2019-05-22 19:03:05 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Global nav/span_Touch-up paint' is clicked on
+
+2019-05-22 19:03:05 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-05-22 19:03:07 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2019-05-22 19:00:07 - [TEST_SUITE][PASSED] - Global Nav: Test Cases/GGMP/GlobalNav/Collision/Touch-UP Paint]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

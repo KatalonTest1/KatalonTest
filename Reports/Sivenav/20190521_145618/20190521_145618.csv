@@ -1,0 +1,76 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Sivenav,Chrome 74.0.3729.157,,,2019-05-21 14:56:22,2019-05-21 14:58:41,2m - 19.007s,PASSED
+,,,,,,,
+Test Cases/GGMP/SiveNav/Collision/Bumper,Chrome 74.0.3729.157,,,2019-05-21 14:56:22,2019-05-21 14:56:36,13.396s,PASSED
+"openBrowser("""")",Chrome 74.0.3729.157,,,2019-05-21 14:56:23,2019-05-21 14:56:30,7.699s,PASSED
+"navigateToUrl(""https://www.genuinegmparts.com/"")",Chrome 74.0.3729.157,,,2019-05-21 14:56:30,2019-05-21 14:56:34,4.002s,PASSED
+"click(findTestObject(""Object Repository/New Folder/a_Bumpers Fascias  Grilles""))",Chrome 74.0.3729.157,,,2019-05-21 14:56:34,2019-05-21 14:56:35,0.190s,PASSED
+closeBrowser(),Chrome 74.0.3729.157,,,2019-05-21 14:56:35,2019-05-21 14:56:36,1.038s,PASSED
+,,,,,,,
+Test Cases/GGMP/SiveNav/Collision/Headlamps,Chrome 74.0.3729.157,,,2019-05-21 14:56:36,2019-05-21 14:56:47,11.700s,PASSED
+"openBrowser("""")",Chrome 74.0.3729.157,,,2019-05-21 14:56:36,2019-05-21 14:56:41,5.404s,PASSED
+"navigateToUrl(""https://www.genuinegmparts.com/"")",Chrome 74.0.3729.157,,,2019-05-21 14:56:41,2019-05-21 14:56:46,4.826s,PASSED
+"click(findTestObject(""Object Repository/a_Headlamps  Taillamps""))",Chrome 74.0.3729.157,,,2019-05-21 14:56:46,2019-05-21 14:56:46,0.150s,PASSED
+closeBrowser(),Chrome 74.0.3729.157,,,2019-05-21 14:56:46,2019-05-21 14:56:47,1.040s,PASSED
+,,,,,,,
+Test Cases/GGMP/SiveNav/Collision/Interior Parts,Chrome 74.0.3729.157,,,2019-05-21 14:56:47,2019-05-21 14:56:57,10.001s,PASSED
+"openBrowser("""")",Chrome 74.0.3729.157,,,2019-05-21 14:56:48,2019-05-21 14:56:53,5.334s,PASSED
+"navigateToUrl(""https://www.genuinegmparts.com/"")",Chrome 74.0.3729.157,,,2019-05-21 14:56:53,2019-05-21 14:56:56,3.201s,PASSED
+"click(findTestObject(""Object Repository/a_Interior Parts  Air Bags""))",Chrome 74.0.3729.157,,,2019-05-21 14:56:56,2019-05-21 14:56:56,0.229s,PASSED
+closeBrowser(),Chrome 74.0.3729.157,,,2019-05-21 14:56:56,2019-05-21 14:56:57,0.991s,PASSED
+,,,,,,,
+Test Cases/GGMP/SiveNav/Collision/Radiators,Chrome 74.0.3729.157,,,2019-05-21 14:56:57,2019-05-21 14:57:11,13.180s,PASSED
+"openBrowser("""")",Chrome 74.0.3729.157,,,2019-05-21 14:56:58,2019-05-21 14:57:05,6.980s,PASSED
+"navigateToUrl(""https://www.genuinegmparts.com/"")",Chrome 74.0.3729.157,,,2019-05-21 14:57:05,2019-05-21 14:57:09,4.855s,PASSED
+"click(findTestObject(""Object Repository/a_Radiators""))",Chrome 74.0.3729.157,,,2019-05-21 14:57:09,2019-05-21 14:57:10,0.108s,PASSED
+closeBrowser(),Chrome 74.0.3729.157,,,2019-05-21 14:57:10,2019-05-21 14:57:11,0.984s,PASSED
+,,,,,,,
+Test Cases/GGMP/SiveNav/Collision/SheetMetal,Chrome 74.0.3729.157,,,2019-05-21 14:57:11,2019-05-21 14:57:23,12.255s,PASSED
+"openBrowser("""")",Chrome 74.0.3729.157,,,2019-05-21 14:57:11,2019-05-21 14:57:17,5.801s,PASSED
+maximizeWindow(),Chrome 74.0.3729.157,,,2019-05-21 14:57:17,2019-05-21 14:57:18,1.150s,PASSED
+"navigateToUrl(""https://www.genuinegmparts.com/"")",Chrome 74.0.3729.157,,,2019-05-21 14:57:18,2019-05-21 14:57:21,3.617s,PASSED
+"click(findTestObject(""Object Repository/a_Sheet Metal""))",Chrome 74.0.3729.157,,,2019-05-21 14:57:21,2019-05-21 14:57:22,0.219s,PASSED
+closeBrowser(),Chrome 74.0.3729.157,,,2019-05-21 14:57:22,2019-05-21 14:57:23,1.142s,PASSED
+,,,,,,,
+Test Cases/GGMP/SiveNav/Collision/Structural Parts,Chrome 74.0.3729.157,,,2019-05-21 14:57:23,2019-05-21 14:57:34,11.431s,PASSED
+"openBrowser("""")",Chrome 74.0.3729.157,,,2019-05-21 14:57:23,2019-05-21 14:57:29,5.719s,PASSED
+"navigateToUrl(""https://www.genuinegmparts.com/"")",Chrome 74.0.3729.157,,,2019-05-21 14:57:29,2019-05-21 14:57:33,4.151s,PASSED
+"click(findTestObject(""Object Repository/a_Structural Parts""))",Chrome 74.0.3729.157,,,2019-05-21 14:57:33,2019-05-21 14:57:33,0.155s,PASSED
+waitForPageLoad(0),Chrome 74.0.3729.157,,,2019-05-21 14:57:33,2019-05-21 14:57:33,0.068s,PASSED
+closeBrowser(),Chrome 74.0.3729.157,,,2019-05-21 14:57:33,2019-05-21 14:57:34,1.058s,PASSED
+,,,,,,,
+Test Cases/GGMP/SiveNav/Collision/Tuch-Up Paint,Chrome 74.0.3729.157,,,2019-05-21 14:57:34,2019-05-21 14:57:45,10.759s,PASSED
+"openBrowser("""")",Chrome 74.0.3729.157,,,2019-05-21 14:57:34,2019-05-21 14:57:40,5.729s,PASSED
+"navigateToUrl(""https://www.genuinegmparts.com/"")",Chrome 74.0.3729.157,,,2019-05-21 14:57:40,2019-05-21 14:57:44,3.781s,PASSED
+"click(findTestObject(""Object Repository/a_Touch-Up Paint""))",Chrome 74.0.3729.157,,,2019-05-21 14:57:44,2019-05-21 14:57:44,0.112s,PASSED
+closeBrowser(),Chrome 74.0.3729.157,,,2019-05-21 14:57:44,2019-05-21 14:57:45,0.890s,PASSED
+,,,,,,,
+Test Cases/GGMP/SiveNav/Collision/Wheels,Chrome 74.0.3729.157,,,2019-05-21 14:57:45,2019-05-21 14:57:56,11.167s,PASSED
+"openBrowser("""")",Chrome 74.0.3729.157,,,2019-05-21 14:57:45,2019-05-21 14:57:51,5.824s,PASSED
+"navigateToUrl(""https://www.genuinegmparts.com/"")",Chrome 74.0.3729.157,,,2019-05-21 14:57:51,2019-05-21 14:57:55,4.086s,PASSED
+"click(findTestObject(""Object Repository/a_Wheels""))",Chrome 74.0.3729.157,,,2019-05-21 14:57:55,2019-05-21 14:57:55,0.135s,PASSED
+closeBrowser(),Chrome 74.0.3729.157,,,2019-05-21 14:57:55,2019-05-21 14:57:56,0.890s,PASSED
+,,,,,,,
+Test Cases/GGMP/SiveNav/Powertrain/Engine Components,Chrome 74.0.3729.157,,,2019-05-21 14:57:56,2019-05-21 14:58:07,10.948s,PASSED
+"openBrowser("""")",Chrome 74.0.3729.157,,,2019-05-21 14:57:56,2019-05-21 14:58:02,6.130s,PASSED
+"navigateToUrl(""https://www.genuinegmparts.com/"")",Chrome 74.0.3729.157,,,2019-05-21 14:58:02,2019-05-21 14:58:06,3.641s,PASSED
+"click(findTestObject(""Object Repository/a_Engine Components""))",Chrome 74.0.3729.157,,,2019-05-21 14:58:06,2019-05-21 14:58:06,0.130s,PASSED
+closeBrowser(),Chrome 74.0.3729.157,,,2019-05-21 14:58:06,2019-05-21 14:58:07,0.862s,PASSED
+,,,,,,,
+Test Cases/GGMP/SiveNav/Powertrain/Engines,Chrome 74.0.3729.157,,,2019-05-21 14:58:07,2019-05-21 14:58:18,10.640s,PASSED
+"openBrowser("""")",Chrome 74.0.3729.157,,,2019-05-21 14:58:07,2019-05-21 14:58:13,5.475s,PASSED
+"navigateToUrl(""https://www.genuinegmparts.com/"")",Chrome 74.0.3729.157,,,2019-05-21 14:58:13,2019-05-21 14:58:17,3.821s,PASSED
+"click(findTestObject(""Object Repository/a_Engines""))",Chrome 74.0.3729.157,,,2019-05-21 14:58:17,2019-05-21 14:58:17,0.190s,PASSED
+closeBrowser(),Chrome 74.0.3729.157,,,2019-05-21 14:58:17,2019-05-21 14:58:18,0.903s,PASSED
+,,,,,,,
+Test Cases/GGMP/SiveNav/Powertrain/Transmission Components,Chrome 74.0.3729.157,,,2019-05-21 14:58:18,2019-05-21 14:58:29,11.284s,PASSED
+"openBrowser("""")",Chrome 74.0.3729.157,,,2019-05-21 14:58:18,2019-05-21 14:58:24,5.616s,PASSED
+"navigateToUrl(""https://www.genuinegmparts.com/"")",Chrome 74.0.3729.157,,,2019-05-21 14:58:24,2019-05-21 14:58:28,4.396s,PASSED
+"click(findTestObject(""Object Repository/a_Transmission Components""))",Chrome 74.0.3729.157,,,2019-05-21 14:58:28,2019-05-21 14:58:28,0.126s,PASSED
+closeBrowser(),Chrome 74.0.3729.157,,,2019-05-21 14:58:28,2019-05-21 14:58:29,0.889s,PASSED
+,,,,,,,
+Test Cases/GGMP/SiveNav/Powertrain/Transmission,Chrome 74.0.3729.157,,,2019-05-21 14:58:29,2019-05-21 14:58:41,11.703s,PASSED
+"openBrowser("""")",Chrome 74.0.3729.157,,,2019-05-21 14:58:29,2019-05-21 14:58:35,5.634s,PASSED
+"navigateToUrl(""https://www.genuinegmparts.com/"")",Chrome 74.0.3729.157,,,2019-05-21 14:58:35,2019-05-21 14:58:40,4.679s,PASSED
+"click(findTestObject(""Object Repository/a_Transmissions  Transfer Cases""))",Chrome 74.0.3729.157,,,2019-05-21 14:58:40,2019-05-21 14:58:40,0.136s,PASSED
+closeBrowser(),Chrome 74.0.3729.157,,,2019-05-21 14:58:40,2019-05-21 14:58:41,0.952s,PASSED

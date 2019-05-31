@@ -1,0 +1,37 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Tools,Chrome 74.0.3729.169,,,2019-05-27 19:32:16,2019-05-27 19:33:21,1m - 5.502s,PASSED
+,,,,,,,
+Test Cases/GGMP/TOOLS/Locate a Dealer/LAD,Chrome 74.0.3729.169,,,2019-05-27 19:32:16,2019-05-27 19:32:39,22.899s,PASSED
+"openBrowser("""")",Chrome 74.0.3729.169,,,2019-05-27 19:32:17,2019-05-27 19:32:28,10.681s,PASSED
+maximizeWindow(),Chrome 74.0.3729.169,,,2019-05-27 19:32:28,2019-05-27 19:32:29,1.209s,PASSED
+"navigateToUrl(""https://www.genuinegmparts.com"")",Chrome 74.0.3729.169,,,2019-05-27 19:32:29,2019-05-27 19:32:33,4.006s,PASSED
+"click(findTestObject(""Locate a Dealer/li_Locate Parts andService""))",Chrome 74.0.3729.169,,,2019-05-27 19:32:33,2019-05-27 19:32:33,0.231s,PASSED
+"click(findTestObject(""Locate a Dealer/span_Locate a Parts Dealer""))",Chrome 74.0.3729.169,,,2019-05-27 19:32:33,2019-05-27 19:32:37,3.515s,PASSED
+"setText(findTestObject(""Locate a Dealer/input_City State_inpZip""), ""10001"")",Chrome 74.0.3729.169,,,2019-05-27 19:32:37,2019-05-27 19:32:37,0.250s,PASSED
+"click(findTestObject(""Locate a Dealer/button_Begin your search""))",Chrome 74.0.3729.169,,,2019-05-27 19:32:37,2019-05-27 19:32:37,0.391s,PASSED
+"click(findTestObject(""Object Repository/Locate a Dealer/a_Dealer Website""))",Chrome 74.0.3729.169,,,2019-05-27 19:32:37,2019-05-27 19:32:38,0.672s,PASSED
+closeBrowser(),Chrome 74.0.3729.169,,,2019-05-27 19:32:38,2019-05-27 19:32:39,1.039s,PASSED
+,,,,,,,
+Test Cases/GGMP/TOOLS/Locate a Dealer/New LAD,Chrome 74.0.3729.169,,,2019-05-27 19:32:39,2019-05-27 19:33:02,22.383s,PASSED
+"openBrowser("""")",Chrome 74.0.3729.169,,,2019-05-27 19:32:40,2019-05-27 19:32:47,7.414s,PASSED
+maximizeWindow(),Chrome 74.0.3729.169,,,2019-05-27 19:32:47,2019-05-27 19:32:48,1.234s,PASSED
+"navigateToUrl(""https://www.genuinegmparts.com/"")",Chrome 74.0.3729.169,,,2019-05-27 19:32:48,2019-05-27 19:32:52,4.078s,PASSED
+"click(findTestObject(""Object Repository/Locate a Dealer/new LAD/li_Locate Parts andService""))",Chrome 74.0.3729.169,,,2019-05-27 19:32:52,2019-05-27 19:32:53,0.201s,PASSED
+"click(findTestObject(""Object Repository/Locate a Dealer/new LAD/span_Locate a GM Collision Repair Network Facility""))",Chrome 74.0.3729.169,,,2019-05-27 19:32:53,2019-05-27 19:32:56,3.801s,PASSED
+"setText(findTestObject(""Object Repository/Locate a Dealer/new LAD/input_ZIP Code or CityState_inpZip""), ""10001"")",Chrome 74.0.3729.169,,,2019-05-27 19:32:56,2019-05-27 19:32:57,0.206s,PASSED
+"click(findTestObject(""Object Repository/Locate a Dealer/new LAD/button_ZIP Code or CityState_searchBtn""))",Chrome 74.0.3729.169,,,2019-05-27 19:32:57,2019-05-27 19:32:57,0.546s,PASSED
+"click(findTestObject(""Object Repository/Locate a Dealer/new LAD/h2_precision auto works""))",Chrome 74.0.3729.169,,,2019-05-27 19:32:57,2019-05-27 19:32:58,0.733s,PASSED
+"click(findTestObject(""Object Repository/Locate a Dealer/new LAD/p_Back to List""))",Chrome 74.0.3729.169,,,2019-05-27 19:32:58,2019-05-27 19:32:59,1.058s,PASSED
+"click(findTestObject(""Object Repository/Locate a Dealer/new LAD/button_Terms of Use_gm-control-active gm-fullscreen-control""))",Chrome 74.0.3729.169,,,2019-05-27 19:32:59,2019-05-27 19:32:59,0.633s,PASSED
+"click(findTestObject(""Object Repository/Locate a Dealer/new LAD/button_Terms of Use_gm-control-active gm-fullscreen-control""))",Chrome 74.0.3729.169,,,2019-05-27 19:32:59,2019-05-27 19:33:00,0.726s,PASSED
+closeBrowser(),Chrome 74.0.3729.169,,,2019-05-27 19:33:00,2019-05-27 19:33:02,1.349s,PASSED
+,,,,,,,
+Test Cases/GGMP/TOOLS/Locate a Dealer/Touch-Up Paint,Chrome 74.0.3729.169,,,2019-05-27 19:33:02,2019-05-27 19:33:21,19.673s,PASSED
+"openBrowser("""")",Chrome 74.0.3729.169,,,2019-05-27 19:33:02,2019-05-27 19:33:10,8.146s,PASSED
+maximizeWindow(),Chrome 74.0.3729.169,,,2019-05-27 19:33:10,2019-05-27 19:33:11,1.218s,PASSED
+"navigateToUrl(""https://www.genuinegmparts.com/"")",Chrome 74.0.3729.169,,,2019-05-27 19:33:11,2019-05-27 19:33:16,4.569s,PASSED
+"click(findTestObject(""Object Repository/HomePage/TouchUp Paint/li_Collision""))",Chrome 74.0.3729.169,,,2019-05-27 19:33:16,2019-05-27 19:33:16,0.205s,PASSED
+"click(findTestObject(""Object Repository/HomePage/TouchUp Paint/span_Touch-up paint""))",Chrome 74.0.3729.169,,,2019-05-27 19:33:16,2019-05-27 19:33:19,3.274s,PASSED
+"click(findTestObject(""Object Repository/HomePage/TouchUp Paint/a_Downloadable Guides""))",Chrome 74.0.3729.169,,,2019-05-27 19:33:19,2019-05-27 19:33:20,0.208s,PASSED
+"click(findTestObject(""Object Repository/HomePage/TouchUp Paint/span_2018 GM Refinish Materials - GMW-15406-2017""))",Chrome 74.0.3729.169,,,2019-05-27 19:33:20,2019-05-27 19:33:20,0.368s,PASSED
+closeBrowser(),Chrome 74.0.3729.169,,,2019-05-27 19:33:20,2019-05-27 19:33:21,1.259s,PASSED
